@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Talita Mendonça Marques
 - 👀 I’m interested in Educação, Tecnologia e Programação
-- 🌱 I’m currently learning Licenciatura em Computação 3/8
+- 🌱 I’m currently learning Licenciatura em Computação 4/8
 - 📫 How to reach me ...All about it is bellow:
 
 # <div align="center"> | **Talita Mendonça Marquês**   |</div>
