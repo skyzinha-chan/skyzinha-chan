@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning Licenciatura em Computação 4/8
 - 📫 How to reach me ...All about it is bellow:
 
-# <div align="center"> | **Talita Mendonça Marquês**   |</div>
+# <div align="center"> | **Talita Mendonça Marques**   |</div>
 
 <div align="center"> 
  
  ``` 
- Sou uma iniciante nos estudos sobre tecnologia, mas minha paixão por esse mundo de conteúdo já dura anos 🚀👩‍💻
+ Iniciante nos estudos sobre tecnologia, mas minha paixão por esse mundo de conteúdo já dura anos 🚀👩‍💻
 
  ```
 </div>
@@ -22,7 +22,7 @@
 Esforçando-me para acumular experiências e conhecimentos, em busca da oportunidade para crescer profissionalmente nas áreas de tecnologia e educação.
 
 + Profissional Dedicado: Iniciando minhas experiências em tecnologia e inovação, sou apaixonado por desenvolver soluções criativas que impulsionam o progresso.
-+ Educador Entusiasta: Acredito no poder da educação para transformar vidas e dedico-me a compartilhar conhecimento através de plataformas como a DIO.
++ Educador Entusiasta: Acredito no poder da educação para transformar vidas e dedico-me a compartilhar conhecimento através de plataformas como a DIO; Cisco; AdaTech; Santander Bolsas; Compass Uol; Microsoft Learn.
 + Colaborador Ativo: Engajo-me ativamente na comunidade de tecnologia.
 + Aprendiz Perpétuo: Estou sempre em busca de novos aprendizados e desafios que me permitam crescer tanto profissional quanto pessoalmente.💪🏾 
 
@@ -79,36 +79,40 @@ Esforçando-me para acumular experiências e conhecimentos, em busca da oportuni
   
 
   
-####       <div align="center">💼🛠 Estou tendo contato com:</div>
+####       <div align="center">💼🛠 Ferramentas com as quais estive/estou tendo contato - sem expertise por enquanto, apenas aprendendo:</div>
  - ### Plataformas
 1. ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
     1. ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 2. ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ----------------------------------------------------------------
-- ####       Aplicações
+- #### Aplicações
 
 1. ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 2. ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 3. ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 4. ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+5. ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+6. ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+7. ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+8. ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+9. ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+10. ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+11. ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+12. ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+13. ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+14. ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+15. ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+16. ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+17. ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+18. ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+19. ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ----------------------------------------------------------------
 
-
-
-- ####      Linguagens
-
-1. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-2. ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-3. ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-4. ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-5. ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-----------------------------------------------------------------
 - ####      IDEs
   
 1. ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 2. ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
      1. ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 ----------------------------------------------------------------
  
@@ -116,15 +120,20 @@ Esforçando-me para acumular experiências e conhecimentos, em busca da oportuni
 
 | Linguaguens       |  Em Construção                                                                                                                     |
 | --------------    | ---------------------------------------------------------------------------------------------------------------------------------- |
-| JAVA              | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
-| JAVASCRIPT        | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
+| Java              | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
+| JavaScript        | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 | HTML5             | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
 | CSS3              | ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|
-| MARKDOWN          | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)|
+| Markdown          | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)|
+| GDScript          | ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)|
+| LaTeX             | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)|
+| Python            | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyzinha-chan&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ----------------------------------------------------------------
+
+
 
 <!---
 skyzinha-chan/skyzinha-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
