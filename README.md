@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Talita Mendonça Marques
-- 👀 I’m interested in Educação, Tecnologia e Programação
-- 🌱 I’m currently learning Licenciatura em Computação 4/8
 - 📫 How to reach me ...All about it is bellow:
 
-# <div align="center"> | **Talita Mendonça Marques**   |</div>
+# <div align="center"> | **👋 Olá, eu sou a Talita Mendonça Marques!**   |</div>
+
+🎓 Tecnóloga em Gestão Empreendedora de Serviços (UNINTER, 2023)  
+💻 Graduanda em Licenciatura em Computação (IFMS – Campus Jardim) – 5º semestre  
+🚀 Estagiária em Inteligência Artificial – Compass UOL | Programa de Bolsas AWS  
 
 <div align="center"> 
  
@@ -13,20 +14,14 @@
  ```
 </div>
 
-### <div align="center">👩‍💻 Um pouco sobre mim:</div>
+### <div align="center">👩‍💻 Sobre mim </div>
 
-- [x] Tecnóloga em Gestão Empreendedora de Serviços pela UNINTER 2023. 
+Apaixonada por tecnologia, educação e inovação, estou em constante busca por conhecimento e experiências que impulsionem o desenvolvimento pessoal, profissional e social.
 
-- [ ] Licenciatura em Computação 🎓⏲ 2026.
-
-Esforçando-me para acumular experiências e conhecimentos, em busca da oportunidade para crescer profissionalmente nas áreas de tecnologia e educação.
-
-+ Profissional Dedicado: Iniciando minhas experiências em tecnologia e inovação, sou apaixonado por desenvolver soluções criativas que impulsionam o progresso.
-+ Educador Entusiasta: Acredito no poder da educação para transformar vidas e dedico-me a compartilhar conhecimento através de plataformas como a DIO; Cisco; AdaTech; Santander Bolsas; Compass Uol; Microsoft Learn.
-+ Colaborador Ativo: Engajo-me ativamente na comunidade de tecnologia.
-+ Aprendiz Perpétuo: Estou sempre em busca de novos aprendizados e desafios que me permitam crescer tanto profissional quanto pessoalmente.💪🏾 
-
-
+💡 **Profissional dedicada:** Iniciante na área de tecnologia, mas com muita vontade de aprender e evoluir.  
+📚 **Educadora entusiasta:** Acredito no poder transformador da educação e participo de iniciativas como DIO, Cisco, AdaTech, Santander Bolsas, Compass UOL e Microsoft Learn.  
+🤝 **Colaboradora ativa:** Engajada em projetos de inclusão digital e impacto social.  
+🔁 **Aprendiz contínua:** Em busca de novos desafios e aprendizados todos os dias.  
 
 
 
@@ -66,6 +61,13 @@ Esforçando-me para acumular experiências e conhecimentos, em busca da oportuni
 - Sales Force SKY: Tenho experiência na plataforma SKY Sales Force, o que é valioso. Essa plataforma é líder em soluções de gerenciamento de relacionamento com o cliente (CRM) e é amplamente usada para automatizar vendas, marketing e atendimento ao cliente. Minha capacidade de aprender e dominar apps é admirável.
 - Pacotes Office: O Pacote Office é uma ferramenta essencial para muitas atividades profissionais. Compreender e utilizar aplicativos como Word, Excel e PowerPoint demonstra minha versatilidade e adaptabilidade. Minha facilidade em aprender e usar essas ferramentas é uma grande vantagem.
 
+---
+## 🛠️ Habilidades interpessoais
+
+| Comunicação | Colaboração | Proatividade | Entusiasmo | Dedicação | Curiosidade |
+|-------------|-------------|--------------|------------|-----------|--------------|
+
+---
   ----------------------------------------------------------------
  # 🏸 
 
@@ -133,6 +135,7 @@ Esforçando-me para acumular experiências e conhecimentos, em busca da oportuni
 
 ----------------------------------------------------------------
 
+Obrigada por visitar meu perfil! 😊
 
 
 <!---
