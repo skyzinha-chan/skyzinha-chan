@@ -82,7 +82,7 @@ Com certificação **AWS Cloud Practitioner**, finalizei recentemente um estági
   <img src="https://raw.githubusercontent.com/skyzinha-chan/skyzinha-chan/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 <p align="center">
-  <img src="https://gh-readme-isometric-contributions.vercel.app/api?user=skyzinha-chan&theme=dracula&v=1" alt="Isometric Contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyzinha-chan&theme=dracula&hide_border=true&line=58A6FF&point=58A6FF&area=true" alt="Activity Graph"/>
 </p>
 
 ---
